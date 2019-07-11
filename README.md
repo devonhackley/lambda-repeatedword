@@ -12,5 +12,5 @@ Deployed link: https://j1dqu2jrl0.execute-api.us-east-2.amazonaws.com/demo
     - [x] You should use a query string parameter to pass in the sentence data.
 
 ## Issues:
--Testing my create function, didn't occur to me initially that I had to update the handler info so that it is pointing to the correct class/method
--Could not find out where the mapping template was located, then wasn't sure what belonged in there. Once I figured that out, I didnt realize it had to be in a string format instead of an object.
+- Testing my create function, didn't occur to me initially that I had to update the handler info so that it is pointing to the correct class/method
+- Could not find out where the mapping template was located, then wasn't sure what belonged in there. Once I figured that out, I didnt realize it had to be in a string format instead of an object.
