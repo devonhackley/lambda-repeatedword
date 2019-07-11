@@ -1,4 +1,5 @@
-package challenges.hashtable;
+package lambda.repeatedword.hashtable;
+
 
 public class Node<T> {
     private String key;

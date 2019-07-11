@@ -1,4 +1,5 @@
-package challenges.hashtable;
+package lambda.repeatedword.hashtable;
+
 
 
 import java.util.LinkedList;
