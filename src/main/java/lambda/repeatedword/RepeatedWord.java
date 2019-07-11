@@ -1,6 +1,7 @@
-package challenges;
+package lambda.repeatedword;
 
-import challenges.hashtable.Hashtable;
+
+import lambda.repeatedword.hashtable.Hashtable;
 
 public class RepeatedWord {
 
